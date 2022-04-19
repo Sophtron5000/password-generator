@@ -3,6 +3,7 @@
 
 Here we have a password generator. It asks for inputs from the user to generate a unique password. In order or this generator to work I have implemented JavaScript. JavaScript sends an alert asking the user to set the characteristics of the password. I plan on adding more features to include the generated password in the open text box as my understanding of the language increases.
 
+[Password Generator](https://sophtron5000.github.io/password-generator/)
 
 ## Table of Contents
 
